@@ -1,2 +1,2 @@
 # CSS-COLORS
-Created with CodeSandbox
+New React Project with simple css skill to change random background colors of screen
