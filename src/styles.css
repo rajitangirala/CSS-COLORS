@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin-top: 20%;
+  background-color: black;
+  color: white;
+  border: none;
+  height: 30px;
+  font-style: italic;
+  cursor: pointer;
+}
+div {
+  height: 550px;
+}
